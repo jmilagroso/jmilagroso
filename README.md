@@ -10,7 +10,7 @@
     <a href="https://pypi.org/user/jaym/">
       <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
     </a>
-    <a href="[https://pypi.org/user/jaym/](https://rubygems.org/profiles/jmilagroso)">
+    <a href="https://rubygems.org/profiles/jmilagroso">
       <img src="https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge"/>
     </a>
   </div>
