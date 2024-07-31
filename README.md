@@ -17,5 +17,5 @@
 
   <br/>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jmilagroso&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=jmilagroso&theme=tokyonight-duo&border_radius=4)](https://git.io/streak-stats)
 </div>
