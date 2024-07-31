@@ -17,5 +17,6 @@
 
   <br/>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=jmilagroso&theme=tokyonight-duo&border_radius=4)](https://git.io/streak-stats)
+  <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=jmilagroso&theme=tokyonight-duo&border_radius=4)](https://git.io/streak-stats) -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=jmilagroso&theme=transparent)](https://git.io/streak-stats)
 </div>
