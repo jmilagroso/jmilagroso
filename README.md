@@ -16,7 +16,8 @@
   </div>
 
   <br/>
-  
-  <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=jmilagroso&theme=tokyonight-duo&border_radius=4)](https://git.io/streak-stats) -->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=jmilagroso&theme=transparent)](https://github.com/jmilagroso)
+
+  <a href="https://www.hackerrank.com/profile/jmilagroso">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
+  </a>
 </div>
