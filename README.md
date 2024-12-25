@@ -14,10 +14,9 @@
       <img src="https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge"/>
     </a>
   </div>
-
-  <br/>
-
   <a href="https://www.hackerrank.com/profile/jmilagroso">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
   </a>
+  <br/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jmilagroso&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
 </div>
