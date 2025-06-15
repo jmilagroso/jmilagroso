@@ -1,5 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+💼 Hire Me on Upwork
+
+Looking for ETL automation, API integrations, or workflow setups using n8n?
+
+👉 [Check out my Upwork projects](https://www.upwork.com/freelancers/your-username)
+
+
   <div id="badges">
     <a href="https://github.com/Skullabs/kikaha">
       <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=javascript&logoColor=white" alt="Java Badge"/>
