@@ -3,7 +3,7 @@
 
 Looking for ETL automation, API integrations, or workflow setups using n8n?
 
-👉 [Check out my Upwork projects](https://www.upwork.com/freelancers/your-username)
+👉 [Check out my Upwork projects](https://www.upwork.com/freelancers/~0161e4f5e941d68ba1?s=1110580764771602432)
 
 
   <div id="badges">
