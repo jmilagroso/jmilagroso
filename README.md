@@ -1,7 +1,7 @@
 <div id="header" align="center">
 💼 Hire Me on Upwork
 
-Looking for ETL automation, API integrations, or workflow setups using n8n?
+Looking for ETL automation, API integrations, or workflow setups?
 
 👉 [Check out my Upwork projects](https://www.upwork.com/freelancers/~0161e4f5e941d68ba1?s=1110580764771602432)
 
