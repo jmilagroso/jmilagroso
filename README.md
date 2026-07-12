@@ -44,14 +44,14 @@
 
   <!-- Apache Airflow -->
   <p><sub>🌬️ APACHE AIRFLOW</sub></p>
-  <a href="https://www.credly.com/badges/f01171f8-5541-4922-a1a6-f2f1af319bc1/public_url"><img src="https://images.credly.com/size/220x220/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png"  width="120" title="Astronomer – Airflow 2 Fundamentals Certified" /></a>&nbsp;
-  <a href="https://www.credly.com/badges/e3a79c4a-7479-4610-9d02-24d23923843e/public_url"><img src="https://images.credly.com/size/220x220/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob"  width="120" title="Astronomer – Airflow 3 Fundamentals Certified" /></a>
+  <a href="https://www.credly.com/badges/f01171f8-5541-4922-a1a6-f2f1af319bc1/public_url"><img src="https://images.credly.com/size/220x220/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png"  width="120" title="Astronomer - Airflow 2 Fundamentals Certified" /></a>&nbsp;
+  <a href="https://www.credly.com/badges/e3a79c4a-7479-4610-9d02-24d23923843e/public_url"><img src="https://images.credly.com/size/220x220/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob"  width="120" title="Astronomer - Airflow 3 Fundamentals Certified" /></a>
 
   <br/>
 
   <!-- Python & dbt -->
   <p><sub>🐍 PYTHON &nbsp;·&nbsp; 🧱 DBT</sub></p>
-  <a href="https://www.credly.com/badges/50f58f24-00cf-4deb-9dae-09ef56e21d91/public_url"><img src="https://images.credly.com/size/220x220/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png"              width="120" title="PCEP – Certified Entry-Level Python Programmer" /></a>&nbsp;
+  <a href="https://www.credly.com/badges/50f58f24-00cf-4deb-9dae-09ef56e21d91/public_url"><img src="https://images.credly.com/size/220x220/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png"              width="120" title="PCEP - Certified Entry-Level Python Programmer" /></a>&nbsp;
   <a href="https://www.credential.net/e77c0b9b-90a7-4998-8493-3f9e63f2c058#gs.6y6nt8"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55118390" width="120" title="dbt Learn – Fundamentals"/></a>
 
 </div>
